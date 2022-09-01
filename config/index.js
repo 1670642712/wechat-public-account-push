@@ -42,8 +42,7 @@ export const config = {
     PROVINCE: "广东",
     // 所在城市
     CITY: "深圳",
-    * wind_direction.DATA
-    * wind_scale.DATA
+    
     /** 重要节日相关 */
 
     // 重要节日，修改名字为对应需要显示的名字, data 仅填月日即可, 请严格按照示例填写
