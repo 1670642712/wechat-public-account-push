@@ -10,7 +10,7 @@ export const config = {
     APP_SECRET: "c41542c42cced4d2cd72eb74d700d7ea",
 
     // 模板消息id
-    TEMPLATE_ID: "p2bGpOM1tYcuAc5Zv53wF6mmfqB_chwkXUs9wZNNmA0",
+    TEMPLATE_ID: "ufeOkUCOZg4XMg5luhKVkoLj1ppEg_PI5Xy27sgJC9c",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
     CALLBACK_TEMPLATE_ID: "p2bGpOM1tYcuAc5Zv53wF6mmfqB_chwkXUs9wZNNmA0",
@@ -64,7 +64,7 @@ export const config = {
     // 在一起的日子，格式同上
     LOVE_DATE: "2020-02-02",
     // 复合纪念日
-    reunion_DATE: "2022-01-31",
+    MARRY_DATE: "2022-01-31",
 
 
     /** 每日一言 */
@@ -82,7 +82,7 @@ export const config = {
 // 最低气温: {{min_temperature.DATA}}  
 // 最高气温: {{max_temperature.DATA}}  
 // 今天是我们恋爱的第{{love_day.DATA}}天
-// 今天是我们复合的第{{reunion_day.DATA}}天
+// 今天是我们复合的第{{marry_day.DATA}}天
 // {{birthday_message.DATA}}
 
 // {{note_en.DATA}}  
