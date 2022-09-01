@@ -87,7 +87,6 @@ export const config = {
 
 // {{note_en.DATA}}  
 // {{note_ch.DATA}}
-
 // 共推送 {{need_post_num.DATA}}  人
 // 成功: {{success_post_num.DATA}} | 失败: {{fail_post_num.DATA}}
 // 成功用户: {{success_post_ids.DATA}}
