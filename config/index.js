@@ -26,7 +26,7 @@ export const config = {
     // }]
     USERS: [
       {name: '抱走小红', id: "ozJJv51pzKKm-_xNmMMdQdgtT5_Y"}, 
-      
+      {name: '小红花', id: "ozJJv56V9pNcyjhSbvVwu5CEZz6Q"},
     ],
     // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
     CALLBACK_USERS: [
