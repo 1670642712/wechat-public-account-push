@@ -26,7 +26,7 @@ export const config = {
     // }]
     USERS: [
       {name: '抱走小红', id: "ozJJv51pzKKm-_xNmMMdQdgtT5_Y"}, 
-      
+      {name: '小红花', id: "ozJJv56V9pNcyjhSbvVwu5CEZz6Q"},
     ],
     // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
     CALLBACK_USERS: [
@@ -80,8 +80,8 @@ export const config = {
 // {{date.DATA}}  
 // 城市：{{city.DATA}}  
 // 天气：{{weather.DATA}}
-// 风向:{{* wind_direction.DATA}}
-// 风级:{{* wind_scale.DATA}}
+// 风向:{{wind_direction.DATA}}
+// 风级:{{wind_scale.DATA}}
 // 最低气温: {{min_temperature.DATA}}  
 // 最高气温: {{max_temperature.DATA}}  
 // 今天是我们恋爱的第{{love_day.DATA}}天
